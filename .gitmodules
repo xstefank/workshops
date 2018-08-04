@@ -1,3 +1,6 @@
 [submodule "byteman-workshop"]
 	path = byteman-workshop
 	url = git@github.com:ochaloup/byteman-workshop.git
+[submodule "argbash-demo"]
+	path = argbash-demo
+	url = git@github.com:matejak/argbash-demo.git
