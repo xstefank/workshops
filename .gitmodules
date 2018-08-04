@@ -1,0 +1,3 @@
+[submodule "byteman-workshop"]
+	path = byteman-workshop
+	url = git@github.com:ochaloup/byteman-workshop.git
